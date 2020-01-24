@@ -6,3 +6,6 @@ this should be my first pull request
 
 Ok. So now I've created a pull request.
 Now, I'm making some new edits that will be committed.
+
+
+Trying to change some stuff from git in the command line. 
